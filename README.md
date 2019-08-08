@@ -1,2 +1,2 @@
-# bladdercancersurvival
-Sex differences in bladder cancer survival - paper
+# Bladder Cancer Survival
+Bladder cancer survival: women only fare worse in the first two years after diagnosis
